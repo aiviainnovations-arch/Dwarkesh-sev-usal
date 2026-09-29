@@ -4,11 +4,11 @@ import VideoBackground from './VideoBackground'
 export default function CinematicExperience() {
   return (
     <section className="relative h-[80vh] min-h-[520px] w-full overflow-hidden bg-brand-burgundyDark">
-      <VideoBackground
-        src="/videos/cinematic-sev-pour.mp4"
-        poster="/images/poster-cinematic.jpg"
-        className="h-full w-full"
-      />
+    <VideoBackground
+      src={`${import.meta.env.BASE_URL}videos/cinematic-sev-pour.mp4`}
+      poster={`${import.meta.env.BASE_URL}images/poster-cinematic.jpg`}
+      className="h-full w-full"
+    />
       <div className="absolute inset-0 bg-gradient-to-b from-brand-burgundyDark/70 via-brand-burgundyDark/20 to-brand-burgundyDark/80" />
       <div className="grain-overlay" />
 
