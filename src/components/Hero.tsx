@@ -18,8 +18,10 @@ export default function Hero() {
     <section id="home" ref={ref} className="relative h-[100svh] min-h-[640px] w-full overflow-hidden bg-brand-burgundyDark">
       <motion.div style={{ scale: videoScale }} className="absolute inset-0">
         <VideoBackground
-          src="/videos/hero-sev-usal.mp4"
-          poster="/images/poster-hero.jpg"
+          {/* src="/videos/hero-sev-usal.mp4"
+          poster="/images/poster-hero.jpg" */}
+        src={`${import.meta.env.BASE_URL}videos/hero-sev-usal.mp4`}
+        poster={`${import.meta.env.BASE_URL}images/poster-hero.jpg`}
           className="h-full w-full"
           eager
         />
