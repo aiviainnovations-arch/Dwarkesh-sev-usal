@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="public/images/screenshots/Screenshot%20%28464%29.png" alt="Dwarkesh Sev Usal — Homepage" width="100%">
+
 # 🍽️ Dwarkesh Sev Usal
 ### Premium Restaurant Website
 
@@ -83,6 +85,17 @@ This repository contains the full source code for the official **Dwarkesh Sev Us
 | **Franchise** | Dedicated section for franchise inquiries |
 | **Location & Contact** | Address, phone, Google Maps, WhatsApp, Instagram, Facebook |
 | **Mobile Sticky Bar** | Persistent quick-actions on mobile devices |
+
+---
+
+## 📸 Screenshots
+
+| | | |
+|---|---|---|
+| <img src="public/images/screenshots/Screenshot%20%28466%29.png" width="100%"> | <img src="public/images/screenshots/Screenshot%20%28467%29.png" width="100%"> | <img src="public/images/screenshots/Screenshot%20%28468%29.png" width="100%"> |
+| <img src="public/images/screenshots/Screenshot%20%28469%29.png" width="100%"> | <img src="public/images/screenshots/Screenshot%20%28471%29.png" width="100%"> | <img src="public/images/screenshots/Screenshot%20%28472%29.png" width="100%"> |
+
+> *Filenames are currently the raw screen-capture names (`Screenshot (464).png`, etc.). Once you confirm what each one shows, rename them to something descriptive — e.g. `homepage.png`, `menu.png`, `signature-dishes.png` — and update the paths above to match. Descriptive filenames also help SEO and make the repo easier to navigate.*
 
 ---
 
