@@ -1,0 +1,77 @@
+Proprietary License
+
+Copyright (c) 2026 AIVIA Innovations. All rights reserved.
+
+Project: Dwarkesh Sev Usal — Premium Restaurant Website
+Developed by: AIVIA Innovations, for: Dwarkesh Sev Usal
+
+1. OWNERSHIP
+
+This repository and all its contents — including but not limited to
+source code, custom components, styling, animations, configuration,
+documentation, written content, images, videos, and brand/design
+assets (collectively, the "Software") — were developed by AIVIA
+Innovations as commissioned client work for Dwarkesh Sev Usal.
+
+Unless otherwise agreed in writing, ownership and usage rights are
+governed by the commercial agreement between AIVIA Innovations and
+Dwarkesh Sev Usal. This file exists to state the default terms that
+apply in the absence of, or in addition to, that agreement.
+
+2. RESTRICTIONS
+
+Except as expressly permitted under a separate written agreement with
+AIVIA Innovations, no person or entity may:
+
+  a. Copy, reproduce, or redistribute the Software, in whole or in
+     part, for commercial or public use;
+  b. Modify, adapt, reverse-engineer, or create derivative works based
+     on the Software for use outside the intended Dwarkesh Sev Usal
+     deployment;
+  c. Resell, sublicense, rent, lease, or otherwise transfer rights to
+     the Software to any third party;
+  d. Use the Dwarkesh Sev Usal name, branding, visual identity, or
+     any associated trademarks without authorization;
+  e. Remove or alter any copyright, attribution, or proprietary
+     notices contained within the Software.
+
+3. PERMITTED USE
+
+  a. Dwarkesh Sev Usal is permitted to use, deploy, and update this
+     Software for its own business operations, as agreed with AIVIA
+     Innovations.
+  b. Authorized personnel and contractors may clone, build, and
+     maintain this repository strictly for the purpose of operating
+     and updating the live Dwarkesh Sev Usal website.
+  c. AIVIA Innovations retains the right to showcase non-confidential,
+     publicly visible portions of this work (e.g. screenshots, the
+     live deployed site) in its own portfolio and marketing materials.
+
+4. THIRD-PARTY COMPONENTS
+
+This project depends on open-source packages (including React,
+TypeScript, Vite, Tailwind CSS, Framer Motion, and Lucide React), each
+of which remains governed by its own respective license. Nothing in
+this license restricts the use of those underlying open-source
+packages independent of this repository's proprietary code and
+content.
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL AIVIA INNOVATIONS BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE
+SOFTWARE.
+
+6. CONTACT
+
+For licensing inquiries, permissions, or authorized use beyond the
+scope defined above, contact:
+
+  AIVIA Innovations
+  Email: aivia.innovations@gmail.com
+  GitHub: https://github.com/aiviainnovations-arch
+
+All rights not expressly granted herein are reserved.
