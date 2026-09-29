@@ -25,7 +25,7 @@ export const SIGNATURE_DISHES: Dish[] = [
     name: 'Butter Sev Usal',
     description:
       'Crisp sev soaked in a warm, spiced usal gravy, finished with a cube of butter, grated cheese and spring onion.',
-    image: '/images/butter-sev-usal.jpg',
+    image: `${import.meta.env.BASE_URL}images/butter-sev-usal.jpg`,
     tag: 'Signature',
   },
   {
@@ -33,7 +33,7 @@ export const SIGNATURE_DISHES: Dish[] = [
     name: 'Cheese Poha Usal',
     description:
       'Fluffy poha layered with grated cheese and fresh spring onion, served alongside a bowl of tangy usal rassa.',
-    image: '/images/cheese-poha-usal.jpg',
+    image: `${import.meta.env.BASE_URL}images/cheese-poha-usal.jpg`,
     tag: 'Signature',
   },
   {
@@ -41,14 +41,14 @@ export const SIGNATURE_DISHES: Dish[] = [
     name: 'Butter Sev Tari',
     description:
       'Fluffy poha layered with grated cheese and fresh spring onion, served alongside a bowl of tangy usal rassa.',
-    image: '/images/butter-sev-tari.jpg',
+    image: `${import.meta.env.BASE_URL}images/butter-sev-tari.jpg`,
     tag: 'Signature',
   },
   {
     id: 'choco-lassi',
     name: 'Chocolate Lassi',
     description: 'Creamy, chilled lassi finished with roasted cashew pieces.',
-    image: '/images/choco-lassi.jpg',
+    image: `${import.meta.env.BASE_URL}images/choco-lassi.jpg`,
     tag: 'Beverage',
   },
 ]
@@ -63,23 +63,23 @@ export const MENU: MenuCategory[] = [
         name: 'Butter Sev Usal',
         description:
           'Our signature bowl - crisp sev in spiced usal gravy, butter, cheese and spring onion.',
-        image: '/images/butter-sev-usal.jpg',
+        image: `${import.meta.env.BASE_URL}images/butter-sev-usal.jpg`,
         tag: 'Signature',
       },
-            {
+      {
         id: 'butter-sev-tari-menu',
         name: 'Butter Sev Tari',
         description:
           'Our signature bowl - crisp sev in spiced usal gravy, butter, cheese and spring onion.',
-        image: '/images/butter-sev-tari.jpg',
+        image: `${import.meta.env.BASE_URL}images/butter-sev-tari.jpg`,
         tag: 'Signature',
       },
-                  {
+      {
         id: 'butter-cheese-sev-tari-menu',
         name: 'Butter Cheese Sev Tari',
         description:
           'Our signature bowl - crisp sev in spiced usal gravy, butter, cheese and spring onion.',
-        image: '/images/butter-cheese-sev-tari.jpg',
+        image: `${import.meta.env.BASE_URL}images/butter-cheese-sev-tari.jpg`,
         tag: 'Signature',
       },
     ],
@@ -93,7 +93,7 @@ export const MENU: MenuCategory[] = [
         name: 'Cheese Poha Usal',
         description:
           'Fluffy poha topped with grated cheese and spring onion, served with usal rassa on the side.',
-        image: '/images/cheese-poha-usal.jpg',
+        image: `${import.meta.env.BASE_URL}images/cheese-poha-usal.jpg`,
       },
     ],
   },
@@ -105,25 +105,25 @@ export const MENU: MenuCategory[] = [
         id: 'badam-lassi',
         name: 'Badam Lassi',
         description: 'Chilled lassi topped with whole almonds.',
-        image: '/images/badam-lassi.jpg',
+        image: `${import.meta.env.BASE_URL}images/badam-lassi.jpg`,
       },
       {
         id: 'kaju-lassi',
         name: 'Kaju Lassi',
         description: 'Creamy lassi finished with roasted cashew pieces.',
-        image: '/images/kaju-lassi.jpg',
+        image: `${import.meta.env.BASE_URL}images/kaju-lassi.jpg`,
       },
       {
         id: 'mango-lassi',
         name: 'Mango Lassi',
         description: 'Classic lassi swirled with fresh mango.',
-        image: '/images/mango-lassi.jpg',
+        image: `${import.meta.env.BASE_URL}images/mango-lassi.jpg`,
       },
       {
         id: 'choco-lassi',
         name: 'Choco Lassi',
         description: 'Rich lassi layered with chocolate for a dessert-style twist.',
-        image: '/images/choco-lassi.jpg',
+        image: `${import.meta.env.BASE_URL}images/choco-lassi.jpg`,
       },
     ],
   },
